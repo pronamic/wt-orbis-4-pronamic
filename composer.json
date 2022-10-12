@@ -1,7 +1,7 @@
 {
-	"name": "orbis-pronamic",
+	"name": "pronamic/wt-orbis-4-pronamic",
 	"description": "The default WordPress theme for Orbis.",
-	"version": "3.0.0",
+	"version": "4.0.0",
 	"keywords": [
 		"orbis",
 		"wordpress",
