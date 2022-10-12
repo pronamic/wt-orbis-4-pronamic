@@ -1,0 +1,243 @@
+# <!=Copyright (C) 2020 Pronamic
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Orbis Pronamic 3.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wt-orbis-pronamic\n"
+"POT-Creation-Date: 2020-01-07 10:27:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:25
+msgid "Shop Widget Area"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:20
+msgid "Orbis Timesheets"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:209 template-timesheets.php:252
+msgid "%s of the hours are billable"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:225
+#: template-subscription-timesheets.php:107 template-timesheets.php:269
+msgid "Total tracked hours"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:230 template-timesheets.php:274
+msgid "Billabale hours"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:235 template-timesheets.php:279
+msgid "Unbillabale hours"
+msgstr ""
+
+#: includes/widgets/Orbis_Timesheets_Widget.php:260
+msgid "Title:"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:42
+msgid "There are no time registrations for this subscription."
+msgstr ""
+
+#: orbis_subscription_timesheet.php:62
+msgid "Date"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:63 template-subscription-timesheets.php:114
+#: template-timesheet-week.php:97 template-timesheets.php:294
+msgid "User"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:64 single-orbis_subscription.php:12
+#: template-subscription-timesheets.php:117 template-timesheets.php:297
+msgid "Description"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:65 orbis_subscription_timesheet.php:136
+#: template-companies-top.php:102 template-projects-top.php:108
+#: template-subscription-timesheets.php:118 template-subscriptions-top.php:115
+#: template-timesheets.php:298
+msgid "Time"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:135
+msgid "Month"
+msgstr ""
+
+#: orbis_subscription_timesheet.php:142
+#: template-subscription-timesheets.php:119 template-timesheet-week.php:105
+#: template-timesheets.php:299
+msgid "Total"
+msgstr ""
+
+#: single-orbis_subscription.php:40
+msgid "Additional Information"
+msgstr ""
+
+#: single-orbis_subscription.php:45
+msgid "Posted on"
+msgstr ""
+
+#: single-orbis_subscription.php:48
+msgid "Posted by"
+msgstr ""
+
+#: single-orbis_subscription.php:51
+msgid "Actions"
+msgstr ""
+
+#: single-orbis_subscription.php:52
+msgid "Edit"
+msgstr ""
+
+#: template-companies-top.php:101 template-projects-top.php:106
+#: template-subscriptions-invoices.php:99 template-subscriptions-top.php:112
+msgid "Company"
+msgstr ""
+
+#: template-projects-top.php:107 template-subscription-timesheets.php:116
+#: template-timesheets.php:296 templates-projects-over-budget.php:93
+#: templates-projects-over-budget.php:130
+msgid "Project"
+msgstr ""
+
+#: template-subscription-timesheets.php:115 template-timesheets.php:295
+msgid "Client"
+msgstr ""
+
+#: template-subscription-timesheets.php:156 template-timesheets.php:336
+msgid "%s billable, %s unbillable"
+msgstr ""
+
+#: template-subscriptions-invoices.php:100
+msgid "Product"
+msgstr ""
+
+#: template-subscriptions-invoices.php:101 template-subscriptions-top.php:113
+msgid "Subscription"
+msgstr ""
+
+#: template-subscriptions-invoices.php:102
+msgid "Start Date"
+msgstr ""
+
+#: template-subscriptions-invoices.php:103
+msgid "End Date"
+msgstr ""
+
+#: template-subscriptions-invoices.php:104
+msgid "Invoice Number"
+msgstr ""
+
+#: template-subscriptions-invoices.php:105
+msgid "Price"
+msgstr ""
+
+#: template-subscriptions-top.php:114
+msgid "Name"
+msgstr ""
+
+#: template-timesheet-week.php:75 template-timesheets.php:189
+msgid "This week"
+msgstr ""
+
+#: template-timesheet-week.php:86
+msgid "Week %s"
+msgstr ""
+
+#: template-timesheets.php:198
+msgid "View report from %s to %s"
+msgstr ""
+
+#: template-timesheets.php:213 template-timesheets.php:239
+msgid "Filter"
+msgstr ""
+
+#: template-timesheets.php:232
+msgid "&mdash; All Users &mdash;"
+msgstr ""
+
+#: template-timesheets.php:261
+msgid "%s Complete"
+msgstr ""
+
+#: template-timesheets.php:284
+msgid "Billable Amount"
+msgstr ""
+
+#: templates-projects-over-budget.php:94
+msgid "Over budget"
+msgstr ""
+
+#: templates-projects-over-budget.php:131
+msgid "Aantal uren over budget"
+msgstr ""
+
+#: templates-projects-over-budget.php:132
+msgid "Kosten"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Orbis Pronamic"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The Orbis child theme for Pronamic."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pronamic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pronamic.eu/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Companies Top"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Projects Top"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Timesheets"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Subscriptions Invoices"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Subscription Top"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Timesheet week"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Projects finished not invoiced"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Projects over budget"
+msgstr ""
+
+#: template-timesheet-week.php:73 template-timesheets.php:187
+msgctxt "previous"
+msgid "<"
+msgstr ""
+
+#: template-timesheet-week.php:74 template-timesheets.php:188
+msgctxt "next"
+msgid ">"
+msgstr ""

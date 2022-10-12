@@ -1,0 +1,36 @@
+{
+  "name": "orbis-pronamic",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wp-orbis/wt-orbis-pronamic.git"
+  },
+  "keywords": [
+    "pronamic",
+    "orbis",
+    "crm",
+    "intranet"
+  ],
+  "author": {
+    "name": "Pronamic",
+    "email": "info@pronamic.nl",
+    "url": "http://www.pronamic.nl/"
+  },
+  "contributors": [
+    {
+      "name": "Remco Tolsma",
+      "email": "info@remcotolsma.nl",
+      "url": "http://www.remcotolsma.nl/"
+    }
+  ],
+  "license": "GPL",
+  "homepage": "https://github.com/pronamic/wt-orbis",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-phpcs": "^0.4.0",
+    "grunt-phplint": "0.1.0",
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-wp-i18n": "~1.0.3",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}
