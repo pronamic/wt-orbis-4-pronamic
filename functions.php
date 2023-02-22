@@ -121,15 +121,15 @@ add_action( 'orbis_before_side_content', function() {
 			$products = array(
 				(object) array(
 					'name'  => 'Strippenkaart 2 uren',
-					'price' => '190',
+					'price' => '200',
 				),
 				(object) array(
 					'name'  => 'Strippenkaart 5 uren',
-					'price' => '450',
+					'price' => '475',
 				),
 				(object) array(
 					'name'  => 'Strippenkaart 10 uren',
-					'price' => '850',
+					'price' => '900',
 				),
 			);
 
