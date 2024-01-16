@@ -221,7 +221,7 @@ $total_in_period = array_sum( wp_list_pluck( $data, 'number_seconds' ) );
 											$time = $item->number_seconds;
 										}						
 
-										echo esc_html( ucfirst( $date->format_i18n( 'F Y' ) ) );
+										echo esc_html( ucfirst( wp_date( 'F Y', $date->getTimestamp() ) ) );
 
 										?>
 									</th>
@@ -303,7 +303,7 @@ $total_in_period = array_sum( wp_list_pluck( $data, 'number_seconds' ) );
 											$time = $item->number_seconds;
 										}						
 
-										echo esc_html( ucfirst( $date->format_i18n( 'F Y' ) ) );
+										echo esc_html( ucfirst( wp_date( 'F Y', $date->getTimestamp() ) ) );
 
 										?>
 									</th>
