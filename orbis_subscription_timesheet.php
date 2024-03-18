@@ -11,8 +11,8 @@ $query = $wpdb->prepare( "
 	FROM
 		$wpdb->orbis_subscriptions AS subscription
 			INNER JOIN
-		$wpdb->orbis_subscription_products AS product
-				ON subscription.type_id = product.id
+		$wpdb->orbis_products AS product
+				ON subscription.product_id = product.id
 	WHERE
 		subscription.post_id = %d
 	LIMIT
